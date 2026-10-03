@@ -121,3 +121,5 @@ A fuller description of the replication, the individual figures, and the documen
 - GISTEMP Team. *GISS Surface Temperature Analysis (GISTEMP), version 4*. NASA Goddard Institute for Space Studies. <https://data.giss.nasa.gov/gistemp/>
 - Lenssen, N., Schmidt, G., Hansen, J., Menne, M., Pershing, A., Ruedy, R., & Schlinger, D. (2019). *Improvements in the GISTEMP uncertainty model*. Journal of Geophysical Research: Atmospheres, 124(12), 6307–6326.
 - Schwartz, J., & Popovich, N. (2019, February 6). *It's Official: 2018 Was the Fourth-Warmest Year on Record*. The New York Times.
+
+Project materials were reviewed for reproducibility and completeness.
